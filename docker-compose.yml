@@ -5,8 +5,8 @@ services:
     image: postgres
     environment:
       - POSTGRES_DB=weebproject
-      - POSTGRES_USER=USERNAME
-      - POSTGRES_PASSWORD=PASSWORD
+      - POSTGRES_USER=kyyurfavboy
+      - POSTGRES_PASSWORD=280202
     ports:
       - 5432:5432
     restart: always
